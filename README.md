@@ -1,4 +1,4 @@
-# ctf-task-templates
+# CTF challenge templates
 
-Welcome to TG:Hack's repositpry containing templates for making,
+Welcome to TG:Hack's repository containing templates for making,
 hosting and solving tasks. 
