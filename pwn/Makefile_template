@@ -1,10 +1,12 @@
-CC=gcc
-#CC=clang # noen ganger putter gcc inn shit på stacken
+CC=gcc -m32
+#CC=clang # sometimes, gcc puts unwanted stuff on the stack, then try this one
 CFLAGS=-Wall -Wextra
-CFLAGS+=-fno-stack-protector # skru av stack cookies
-CFLAGS+=-z execstack # skru av NX
-CFLAGS+=-no-pie # -fno-pie for clang (ikke randomiser addressen til binærfilen)
-CFLAGS+=-Wl,-z,norelro # skru av RELRO (GOT - Global Offset Table er skrivbar)
+CFLAGS+=-fno-stack-protector # disable stack cookies
+CFLAGS+=-z execstack # disable NX
+CFLAGS+=-no-pie # disable randomising of addresses
+CFLAGS+=-Wl,-z,norelro # disable RELRO (GOT is writeable)
+CFLAGS+=-g
+
 
 .PHONY: all, run, clean
 all: flip
