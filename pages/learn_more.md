@@ -3,8 +3,6 @@
 Here you find a list of sites we find nice and good for learning
 more cyber security.
 
-<br> 
-
 ## Learning Security
 * [Hacksplaining](https://www.hacksplaining.com/) explains common 
 vulnerabilities, and describes how to prevent them when coding.
@@ -27,8 +25,6 @@ steps of one or a few tasks within that category. Each workshop ends with
 a mini CTF with tasks of the topic. The workshops take place at the Department 
 of Informatics, at University of Oslo, and are posted as events on their
 [facebook page](https://www.facebook.com/uioctf).
-
-<br> 
 
 ## More CTFs
 * [CTFtime](https://ctftime.org/) is a page containing most CTFs in the 
