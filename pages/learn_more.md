@@ -48,8 +48,6 @@ are invited to a final round having different challenges. The ones with
 hacking skills and the ability to hack in teams, are invited to join the 
 Norwegian team for the European Cyber Security Challenge. 
 
-<br> 
-
 ## Nice Puzzles for Learning More Hacking
 * [Overthewire](http://overthewire.org/wargames) is a very nice website for 
 different puzzles. The category __bandit__ has terminal puzzles and __narnia__ 
@@ -69,7 +67,6 @@ allowing you to test your penetration testing skills and exchange ideas and
 methodologies with other members of similar interests."
 * [TGHack's old tasks](https://github.com/tghack) on github. 
 
-<br> 
 
 If someone know about some nice web pages for learning more security and ethical 
 hacking, please tell us! (or make a pull request to this project!)
