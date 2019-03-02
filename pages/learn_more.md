@@ -1,7 +1,5 @@
 # Recommended web pages
-
-Here you find a list of sites we find nice and good for learning
-more cyber security.
+Here is a list of sites we find nice and good for learning more cyber security.
 
 ## Learning Security
 * [Hacksplaining](https://www.hacksplaining.com/) explains common 
@@ -44,7 +42,7 @@ are invited to a final round having different challenges. The ones with
 hacking skills and the ability to hack in teams, are invited to join the 
 Norwegian team for the European Cyber Security Challenge. 
 
-## Nice Puzzles for Learning More Hacking
+## Nice puzzles for learning more hacking
 * [Overthewire](http://overthewire.org/wargames) is a very nice website for 
 different puzzles. The category __bandit__ has terminal puzzles and __narnia__ 
 contains exploit intro puzzles.
@@ -56,13 +54,12 @@ web app to learn web application exploits and defenses.
 its name says, crypto challenges.
 * [Juice shop](https://www.owasp.org/index.php/OWASP_Juice_Shop_Project), an 
 intentionally insecure web page. 
-* [Hack yourself first](http://hack-yourself-first.com/): Web page with 50 
-vulnerabilities to exploit.
 * [Hackthebox](https://www.hackthebox.eu/), "Hack The Box is an online platform 
 allowing you to test your penetration testing skills and exchange ideas and 
 methodologies with other members of similar interests."
 * [TGHack's old tasks](https://github.com/tghack) on github. 
 
-
+## Make pull request for suggestions
 If someone know about some nice web pages for learning more security and ethical 
-hacking, please tell us! (or make a pull request to this project!)
+hacking, please tell us! You may make a PR to our [public repository](https://github.com/tghack/ctf-task-templates/blob/master/pages/learn_more.md) 
+with suggestions for additions to this page.
