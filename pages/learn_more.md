@@ -24,6 +24,11 @@ a mini CTF with tasks of the topic. The workshops take place at the Department
 of Informatics, at University of Oslo, and are posted as events on their
 [facebook page](https://www.facebook.com/uioctf).
 
+### Learning pwn
+* [BlackHoodie-2018-Workshop](https://github.com/tharina/BlackHoodie-2018-Workshop): 
+supernice slides and challenges for learning introductions to pwn. 
+Stack overflows, stack frame and short on ROP (return oriented programming)
+
 ## More CTFs
 * [CTFtime](https://ctftime.org/) is a page containing most CTFs in the 
 world. Most of these are quite hard, but sometimes there are very nice
