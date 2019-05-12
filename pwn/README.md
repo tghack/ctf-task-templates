@@ -28,3 +28,7 @@ dpkg --add-architecture i386
 apt update
 apt install -y libc6:i386
 ```
+
+## More tips
+* https://github.com/Naetw/CTF-pwn-tips
+* https://github.com/ctfhacker/ctf-writeups/blob/master/campctf-2015/bitterman-pwn-400/README.md
