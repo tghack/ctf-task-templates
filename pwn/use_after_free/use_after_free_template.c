@@ -30,7 +30,7 @@ static int get_num(void)
 	}
 
 	return atoi(buf);
-}
+}use_after_free
 
 static void run_cmd(void)
 {
