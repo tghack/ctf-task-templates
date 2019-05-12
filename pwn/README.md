@@ -31,4 +31,5 @@ apt install -y libc6:i386
 
 ## More tips
 * https://github.com/Naetw/CTF-pwn-tips
-* https://github.com/ctfhacker/ctf-writeups/blob/master/campctf-2015/bitterman-pwn-400/README.md
+* https://github.com/ctfhacker/ctf-writeups/blob/master/campctf-2015/bitterman-pwn-400/README.md : 
+How to leak libc address by ROPing to puts(9 using puts as an argument.
