@@ -18,6 +18,8 @@ is a YouTube channel with loads of hacking and CTF videos.
 another YouTuber with CTF writeups.
 * [How HTTPS Works](https://howhttps.works/) is a funny web page 
 explaining how HTTPS works through a nice comic. 
+
+### In Oslo/Norway
 * UiO-CTF's practical workshops are very nice to learn how to solve CTF 
 tasks. Every workshop takes a CTF category as a topic, and go through the 
 steps of one or a few tasks within that category. Each workshop ends with 
