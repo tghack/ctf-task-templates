@@ -13,6 +13,7 @@ He also offers great tips and tricks for penetration testing and how to get bett
 general. See [the section below](#nice-puzzles-for-learning-more-hacking) for more info about the pentesting lab "HackTheBox".
 * [Liveoverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
 is a YouTube channel with loads of hacking and CTF videos.
+* [GynvaelEN](https://www.youtube.com/channel/UCCkVMojdBWS-JtH7TliWkVg) is a YouTuber from the CTF team Dragon Sector.
 * [John Hammond](https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw)
 another YouTuber with CTF writeups.
 * [How HTTPS Works](https://howhttps.works/) is a funny web page 
