@@ -29,6 +29,30 @@ apt update
 apt install -y libc6:i386
 ```
 
+## Using pwntools template
+The Python library `pwntools` has this awesome function for
+generating solve scripts.
+
+Using the following command, you specify the remote address and 
+the binary that is to be pwned and paste the generated template 
+into the file `solve.py`:
+```
+pwn template --host pwn.tghack.no --port 1000 ./binary > solve.py
+```
+
+Now, you may run the solve script locally with `gdb` like this:
+```
+python solve.py DEBUG GDB
+```
+
+To not use `gdb`, just skipt the `GDB` flag. 
+
+To run against the remote server, just run the script without any
+flags:
+```
+python solve.py
+```
+
 ## More tips
 * General pwn tips: https://github.com/Naetw/CTF-pwn-tips
 * Leak libc address: https://github.com/ctfhacker/ctf-writeups/blob/master/campctf-2015/bitterman-pwn-400/README.md 
