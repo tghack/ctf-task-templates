@@ -27,6 +27,9 @@ a mini CTF with tasks of the topic. The workshops take place at the Department
 of Informatics, at University of Oslo, and are posted as events on their
 [facebook page](https://www.facebook.com/uioctf).
 
+### Learning reverse engineering
+* [Malware Unicorn's Reverse Engineering 101](https://malwareunicorn.org/workshops/re101.html)
+
 ### Learning pwn
 * [BlackHoodie-2018-Workshop](https://github.com/tharina/BlackHoodie-2018-Workshop): 
 supernice slides and challenges for learning introductions to pwn. 
