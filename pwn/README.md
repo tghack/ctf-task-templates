@@ -40,7 +40,7 @@ into the file `solve.py`:
 pwn template --host pwn.tghack.no --port 1000 ./binary > solve.py
 ```
 
-If you want GDB to act as when you normally run `gdn ./binary`,
+If you want GDB to act as when you normally run `gdb ./binary`,
 you can change the if sentence in the `start()` function to the 
 following snippet:
 ```
