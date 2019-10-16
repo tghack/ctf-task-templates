@@ -52,7 +52,6 @@ following snippet:
         return io
 ```
 
-
 Now, you may run the solve script locally with `gdb` like this:
 ```
 python solve.py DEBUG GDB
