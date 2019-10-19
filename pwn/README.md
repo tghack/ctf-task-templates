@@ -40,6 +40,18 @@ into the file `solve.py`:
 pwn template --host pwn.tghack.no --port 1000 ./binary > solve.py
 ```
 
+If you want GDB to act as when you normally run `gdb ./binary`,
+you can change the if sentence in the `start()` function to the 
+following snippet:
+```
+    if args.GDB:
+        # The line below is the one we comment out and replace
+        #return gdb.debug([exe.path] + argv, gdbscript=gdbscript, *a, **kw)
+        io = process('./binary')
+        gdb.attach(io, gdbscript)
+        return io
+```
+
 Now, you may run the solve script locally with `gdb` like this:
 ```
 python solve.py DEBUG GDB
