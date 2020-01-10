@@ -31,6 +31,17 @@ steps of one or a few tasks within that category. Each workshop ends with
 a mini CTF with tasks of the topic. The workshops take place at the Department 
 of Informatics, at University of Oslo, and are posted as events on their
 [facebook page](https://www.facebook.com/uioctf).
+* University teams: 
+  * NTNU Trondheim has Itemize.
+  * University of Oslo has [UiO-CTF](https://discord.gg/E24KzaJ). 
+  * University of Tromsø has UiT Hack. 
+  * University of Agder has ??.
+  * University of Bergen has ??. 
+* [Norwegian Cyber Security Challenge](https://www.ntnu.no/ncsc) has an
+open Jeopardy styled CTF once a year. The top teams under the age of 25
+are invited to a final round having different challenges. The ones with 
+hacking skills and the ability to hack in teams, are invited to join the 
+Norwegian team for the European Cyber Security Challenge. 
 
 ### Learning reverse engineering
 * [Malware Unicorn's Reverse Engineering 101](https://malwareunicorn.org/workshops/re101.html)
@@ -52,11 +63,6 @@ CTFs now and then in the #ctf channel.
 * Looking for a team (and live in Norway or are from Norway)? The 
 university team [UiO-CTF](https://discord.gg/E24KzaJ) is more than happy 
 to compete with you.
-* [Norwegian Cyber Security Challenge](https://www.ntnu.no/ncsc) has an
-open Jeopardy styled CTF once a year. The top teams under the age of 25
-are invited to a final round having different challenges. The ones with 
-hacking skills and the ability to hack in teams, are invited to join the 
-Norwegian team for the European Cyber Security Challenge. 
 
 ## Nice puzzles for learning more hacking
 * [Overthewire](http://overthewire.org/wargames) is a very nice website for 
