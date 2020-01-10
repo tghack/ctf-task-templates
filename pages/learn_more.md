@@ -1,7 +1,7 @@
 # Recommended web pages
 Here is a list of sites we find nice and good for learning more cyber security.
 
-## Learning Security
+## Learning Security/CTF
 * [Hacksplaining](https://www.hacksplaining.com/) explains common 
 vulnerabilities, and describes how to prevent them when coding.
 * [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA) 
@@ -18,6 +18,11 @@ is a YouTube channel with loads of hacking and CTF videos.
 another YouTuber with CTF writeups.
 * [How HTTPS Works](https://howhttps.works/) is a funny web page 
 explaining how HTTPS works through a nice comic. 
+* [Hacking Arena](https://www.hackingarena.no/challenges/web/) is the university of Oslo's 
+web page for hacking tasks. Some tasks contains solutions.
+* [BlackHoodie](https://www.blackhoodie.re/) offers free, women only workshops within the security
+and hacking domain. We definitely recommend all women and non-binary people to check out
+their workshops. 
 
 ### In Oslo/Norway
 * UiO-CTF's practical workshops are very nice to learn how to solve CTF 
