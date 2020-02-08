@@ -33,7 +33,7 @@ and decoders for different ciphers within cryptography. And a lot more!!!
 * Wikipedia 
 * Kali Linux: An image of an operating system with loads of tools. 
 * [zarduz/ctf-tools](https://github.com/zardus/ctf-tools) github repo with loads of CTF tools.
-* [Cyber chef](https://gchq.github.io/CyberChef/) for encoding and decoding.
+* [CyberChef](https://gchq.github.io/CyberChef/) for encoding and decoding.
 
 <br>
 
@@ -42,7 +42,7 @@ and decoders for different ciphers within cryptography. And a lot more!!!
 * Python scripting: 
   * [pycrypto](https://github.com/dlitz/pycrypto)
   * [pwntools](https://github.com/Gallopsled/pwntools)
-* [Cyber chef](https://gchq.github.io/CyberChef/)
+* [CyberChef](https://gchq.github.io/CyberChef/)
 
 <br>
 
@@ -69,6 +69,7 @@ A list of useful payloads and bypass for Web Application Security and Pentest/CT
 <br>
 
 ### Reverse Engineering
+* [Ghidra](https://ghidra-sre.org/): A free reverse engineering toolset with a built-in decompiler.
 * [IDA](https://www.hex-rays.com/products/ida/support/download.shtml): A nice tool for reverse engineering.
 * Terminal command: `strings`
 * [Online disassembler](https://onlinedisassembler.com/static/home/)
